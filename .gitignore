@@ -1,0 +1,6 @@
+# all file ataun folder env yang ada di root project
+.env
+./env
+# all file ataun folder node_modules yang ada di root project
+env/
+./env/
